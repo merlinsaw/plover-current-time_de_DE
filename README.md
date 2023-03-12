@@ -1,4 +1,4 @@
-# Current time
+# Current time German
 
 > Plover plugin for inserting the current time in an `strftime()` format
 
