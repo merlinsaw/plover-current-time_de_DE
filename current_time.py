@@ -13,6 +13,8 @@ def time(formatting):
 
     if new_locale:
         locale.setlocale(locale.LC_ALL, new_locale[0])
+    else:
+        locale.setlocale(locale.LC_ALL, 'de_DE')
 
     now = datetime.datetime.now()
     formatted = now.strftime(fmt)
