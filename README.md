@@ -24,3 +24,8 @@ Optionally, you can define a locale to get more specific output. The locale shou
 | ---- | ---- |
 | `"TKA*/TUPL": "{:time:%A, %d %B, %Y>>de_DE}",` | Output current date in german. | 
 | `"TP*E/KHA": "{:time:%A, %d %B, %Y>>es_ES}",` | Output current date in spanish. | 
+
+
+## The strftime() Method
+
+https://www.w3schools.com/python/python_datetime.asp
